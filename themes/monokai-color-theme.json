@@ -380,6 +380,12 @@
 			}
 		},
 		{
+			"scope": "markup.quote",
+			"settings": {
+				"foreground": "#b5cea8"
+			}
+		},
+		{
 			"scope": "markup.deleted",
 			"settings": {
 				"foreground": "#ce9178"
