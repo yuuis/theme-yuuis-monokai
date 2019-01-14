@@ -350,7 +350,7 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#569cd6"
+				"foreground": "#ff936c"
 			}
 		},
 		{
@@ -363,7 +363,14 @@
 		{
 			"scope": "markup.italic",
 			"settings": {
-				"fontStyle": "italic"
+				"fontStyle": "italic",
+				"foreground": "#E6DB74"
+			}
+		},
+		{
+			"scope": "punctuation.definition.list.begin.markdown",
+			"settings": {
+				"foreground": "#6796e6"
 			}
 		},
 		{
