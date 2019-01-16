@@ -349,7 +349,7 @@
 		{
 			"scope": "markup.bold",
 			"settings": {
-				"fontStyle": "bold",
+				// "fontStyle": "bold",
 				"foreground": "#ff936c"
 			}
 		},
